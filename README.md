@@ -24,3 +24,7 @@ Reversed array is :<br>
 30 <br>
 20 <br>
 10 <br>
+code 2:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Max_Min_array_sol1.cpp<br>
+Answer :<br>
+Minimum element is :1<br>
+Maximum element is :6<br>
