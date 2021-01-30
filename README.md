@@ -28,3 +28,7 @@ code 2:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Max_Min_arra
 Answer :<br>
 Minimum element is :1<br>
 Maximum element is :6<br>
+code 2:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Max_Min_array_sol2.cpp<br>
+Answer :<br>
+Maximum element is :4<br>
+Minimum element is :1<br>
