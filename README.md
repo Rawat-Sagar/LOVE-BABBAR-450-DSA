@@ -32,3 +32,6 @@ code 2:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Max_Min_arra
 Answer :<br>
 Maximum element is :4<br>
 Minimum element is :1<br>
+code 3:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/K'th_smallest_largest_array.cpp<br>
+Answer :<br>
+Kth Smallest / Largest element is: 5<br>
