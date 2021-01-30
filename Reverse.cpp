@@ -8,6 +8,8 @@ void reverseArray(int arr[] , int start , int end)
         int temp = arr[start];
         arr[start] = arr[end];
         arr[end] = temp;
+        // instead of above three lines you can use:
+        //swap(arr[start],arr[end]);
         start++;
         end--;
     }
