@@ -35,3 +35,7 @@ Minimum element is :1<br>
 code 3:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/K'th_smallest_largest_array.cpp<br>
 Answer :<br>
 Kth Smallest / Largest element is: 5<br>
+code 4:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/sort_012_sol1.cpp<br>
+Answer :<br>
+Array after Segregation : <br>
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 <br>
