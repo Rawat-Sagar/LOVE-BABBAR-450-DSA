@@ -51,3 +51,5 @@ code 6(union):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/sorte
 Answer :1 2 3 4 5 6 7 <br>
 code 6(intersection):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/intersection_two_aorted_arrays.cpp<br>
 Answer :2 3 5 7 <br>
+code 7:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/cyclicallyrotate_array<br>
+Answer :3 9 8 7 6 5 4 2 1 <br>
