@@ -39,3 +39,7 @@ code 4:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/sort_012_sol
 Answer :<br>
 Array after Segregation : <br>
 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 <br>
+code 4:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/sort_012_sol2.cpp<br>
+Answer :<br>
+Array after Segregation :<br>
+0 0 0 0 1 1 1 1 2 2 2 <br>
