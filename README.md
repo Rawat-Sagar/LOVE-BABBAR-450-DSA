@@ -45,5 +45,5 @@ Array after Segregation :<br>
 0 0 0 0 1 1 1 1 2 2 2 <br>
 code 5:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/neg_pos_oneside.cpp<br>
 Answer :-1 -3 -7 4 5 6 2 8 9 <br>
-code 5:<br>
+code 5:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/neg_pos_oneside_sol1.cpp<br>
 Answer :-1 -3 -7 4 5 6 2 8 9 <br>
