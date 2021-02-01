@@ -7,7 +7,7 @@
 // 3.Now again traverse the array and replace first c0 elements with 0, next c1 elements with 1 and next c2 elements with 2.
 
 // Complexity Analysis:
-// Time Complexity: O(n).
+// Time Complexity: O(n)+O(n).
 // Only two traversals of the array is needed.
 // Space Complexity: O(1).
 // As no extra space is required.
