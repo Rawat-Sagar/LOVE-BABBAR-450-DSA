@@ -49,5 +49,5 @@ code 5:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/neg_pos_ones
 Answer :-1 -3 -7 4 5 6 2 8 9 <br>
 code 6(union):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/sorted_array.cpp<br>
 Answer :1 2 3 4 5 6 7 <br>
-code 6(intersection):<br>
+code 6(intersection):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/intersection_two_aorted_arrays.cpp<br>
 Answer :2 3 5 7 <br>
