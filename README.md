@@ -53,9 +53,9 @@ code 6(intersection):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/mai
 Answer :2 3 5 7 <br>
 code 7:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/cyclicallyrotate_array<br>
 Answer :3 9 8 7 6 5 4 2 1 <br>
-code 8:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum.cpp<br>
+code 8(optmial):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum.cpp<br>
 Answer :Maximum contiguous sum is 7<br>
-code 7:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum_sol2.cpp<br>
+code 8(optimal +index):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum_sol2.cpp<br>
 Answer :Maximum contiguous sum is 7 <br>
 Starting index 2 <br>
 Ending index 6 <br>
