@@ -55,3 +55,7 @@ code 7:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/cyclicallyro
 Answer :3 9 8 7 6 5 4 2 1 <br>
 code 8:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum.cpp<br>
 Answer :Maximum contiguous sum is 7<br>
+code 7:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum_sol2.cpp<br>
+Answer :Maximum contiguous sum is 7 <br>
+Starting index 2 <br>
+Ending index 6 <br>
