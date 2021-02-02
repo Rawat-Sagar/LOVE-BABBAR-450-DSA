@@ -61,3 +61,5 @@ Starting index 2 <br>
 Ending index 6 <br>
 code 8(brute-force-approach):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum_bfa1.cpp<br>
 Answer :Array size :9<br>
+code 8(brutw-force-approach):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum_bfa2.cpp<br>
+Answer :Array size :9<br>
