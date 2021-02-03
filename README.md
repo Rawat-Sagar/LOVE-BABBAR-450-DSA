@@ -63,5 +63,5 @@ code 8(brute-force-approach):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/
 Answer :Array size :9<br>
 code 8(brutw-force-approach):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/maxSubArraySum_bfa2.cpp<br>
 Answer :Array size :9<br>
-code 10(optimize):<br>
+code 10(optimize):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/minimum_jump_opt.cpp<br>
 Answer : Minimum number of jumps to reach end is 3<br>
