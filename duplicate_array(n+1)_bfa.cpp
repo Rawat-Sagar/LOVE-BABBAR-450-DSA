@@ -10,7 +10,7 @@ int main()
     //Calculate length of array arr  
     int length = sizeof(arr)/sizeof(arr[0]);  
       
-    printf("Duplicate elements in given array: \n");  
+    cout<<"Duplicate elements in given array:";  
     //Searches for duplicate element  
     for(int i = 0; i < length; i++) {  
         for(int j = i + 1; j < length; j++) {  
