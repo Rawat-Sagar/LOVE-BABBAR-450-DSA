@@ -65,3 +65,6 @@ code 8(brutw-force-approach):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/
 Answer :Array size :9<br>
 code 10(optimize):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/minimum_jump_opt.cpp<br>
 Answer : Minimum number of jumps to reach end is 3<br>
+code 11(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/duplicate_array(n%2B1)_bfa.cpp<br>
+Answer :Duplicate elements in given array: <br>
+2 <br>
