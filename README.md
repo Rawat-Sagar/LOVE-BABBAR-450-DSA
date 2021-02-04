@@ -80,3 +80,5 @@ The merge elements are :<br>
 11 12<br>
 5 10<br>
 1 4<br>
+code 11(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/merge_interval(optimal).cpp<br>
+Answer : The Merged Intervals are: [1, 9]<br>
