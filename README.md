@@ -80,9 +80,9 @@ The merge elements are :<br>
 11 12<br>
 5 10<br>
 1 4<br>
-code 11(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/merge_interval(optimal).cpp<br>
+code 14(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/merge_interval(optimal).cpp<br>
 Answer : The Merged Intervals are: [1, 9]<br>
-code 12(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/next_permutation(bfa).cpp<br>
+code 15(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/next_permutation(bfa).cpp<br>
 Answer :The 3! possible permutations with 3 elements:<br>
 1 2 3<br>
 1 3 2<br>
@@ -91,6 +91,6 @@ Answer :The 3! possible permutations with 3 elements:<br>
 3 1 2<br>
 3 2 1<br>
 After loop: 1 2 3<br>
-code 12(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/next_permutation(optimal).cpp<br>
+code 15(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/next_permutation(optimal).cpp<br>
 Answer :The next permutation is :<br>
 9 1 3 0 1 2 4 <br>
