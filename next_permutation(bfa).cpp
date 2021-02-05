@@ -1,6 +1,6 @@
 // C++ program to illustrate
 // next_permutation example
-
+// Time Complexity :O(n!*n)
 // this header file contains next_permutation function
 #include <algorithm> 
 #include <iostream>
