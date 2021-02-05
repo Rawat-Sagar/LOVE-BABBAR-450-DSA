@@ -68,7 +68,7 @@ Answer : Minimum number of jumps to reach end is 3<br>
 code 11(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/duplicate_array(n%2B1)_bfa.cpp<br>
 Answer :Duplicate elements in given array: <br>
 2 <br>
-code 14(bfa):<br>
+code 14(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/merge_interval(bfa).cpp<br>
 Answer :Enter the size of pairs :<br>
 5<br>
 1 2<br>
