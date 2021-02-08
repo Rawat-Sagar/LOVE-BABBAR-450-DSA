@@ -94,7 +94,8 @@ After loop: 1 2 3<br>
 code 15(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/next_permutation(optimal).cpp<br>
 Answer :The next permutation is :<br>
 9 1 3 0 1 2 4 <br>
-Code 17:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks(bfa).cpp<br>
+Code 17(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks(bfa).cpp<br>
 Answer :Best Time to Buy and Sell Stock is :5<br>
 Code 17(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks(optimal).cpp<br>
 Answer :Best Time to Buy and Sell Stock is :5<br>
+code 18(bfa):
