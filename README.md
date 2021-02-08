@@ -98,4 +98,5 @@ Code 17(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_se
 Answer :Best Time to Buy and Sell Stock is :5<br>
 Code 17(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks(optimal).cpp<br>
 Answer :Best Time to Buy and Sell Stock is :5<br>
-code 18(bfa):
+code 18(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/count_pair_with_sum(bfa).cpp<br>
+Answer :Count pairs with given sum  :2<br>
