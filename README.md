@@ -100,5 +100,7 @@ Code 17(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/bu
 Answer :Best Time to Buy and Sell Stock is :5<br>
 code 18(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/count_pair_with_sum(bfa).cpp<br>
 Answer :Count pairs with given sum  :2<br>
-code 18:(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/count_pair_with_sum(optimal).cpp<br>
+code 18(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/count_pair_with_sum(optimal).cpp<br>
 Answer :Count pairs with given sum  :2<br>
+Code 19(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/common_element_3_sorted_array.cpp<br>
+Answer :20 80 <br>
