@@ -33,10 +33,6 @@ void insertionSort(int arr[], int n)
 	} 
 } 
 
-//Answer :
-//Sorted array :
-//5 6 11 12 13 
-// A utility function to print an array of size n 
 void printArray(int arr[], int n) 
 { 
 	int i; 
@@ -58,3 +54,7 @@ int main()
 	return 0; 
 } 
 
+//Answer :
+//Sorted array :
+//5 6 11 12 13 
+// A utility function to print an array of size n 
