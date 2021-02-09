@@ -104,3 +104,5 @@ code 18(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/co
 Answer :Count pairs with given sum  :2<br>
 Code 19(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/common_element_3_sorted_array.cpp<br>
 Answer :20 80 <br>
+Code 19(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/common_element_3_sorted_array(optimal).cpp<br>
+Answer :Common Elements are 20 80 <br>
