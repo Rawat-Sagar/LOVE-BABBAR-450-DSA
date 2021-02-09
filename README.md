@@ -106,3 +106,8 @@ Code 19(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/common
 Answer :20 80 <br>
 Code 19(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/common_element_3_sorted_array(optimal).cpp<br>
 Answer :Common Elements are 20 80 <br>
+Code 20(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/alternate_positive_negative_elements(optimal).cpp<br>
+Answer :Rearrange positive and negative separate :<br>
+4 3 -2 -1 <br>
+Rearrange positive and negative alternate :<br>
+-2 3 -1 4 <br>
