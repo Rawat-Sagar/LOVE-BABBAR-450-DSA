@@ -111,3 +111,7 @@ Answer :Rearrange positive and negative separate :<br>
 4 3 -2 -1 <br>
 Rearrange positive and negative alternate :<br>
 -2 3 -1 4 <br>
+Code 21(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/subarray_sum_zero(bfa).cpp<br>
+Answer :Yes<br>
+Code 21(optimal):
+Answer :Yes<be>
