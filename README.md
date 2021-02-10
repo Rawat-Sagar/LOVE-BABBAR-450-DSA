@@ -113,5 +113,5 @@ Rearrange positive and negative alternate :<br>
 -2 3 -1 4 <br>
 Code 21(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/subarray_sum_zero(bfa).cpp<br>
 Answer :Yes<br>
-Code 21(optimal):
+Code 21(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/subarray_sum_zero(optimal).cpp<br>
 Answer :Yes<be>
