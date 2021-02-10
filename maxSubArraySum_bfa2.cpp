@@ -19,4 +19,5 @@ int main(){
      }
    }
 cout<<max;
+return 0;
 }
