@@ -114,4 +114,6 @@ Rearrange positive and negative alternate :<br>
 Code 21(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/subarray_sum_zero(bfa).cpp<br>
 Answer :Yes<br>
 Code 21(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/subarray_sum_zero(optimal).cpp<br>
-Answer :Yes<be>
+Answer :Yes<br>
+Code 23(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/max_product_subarray(bfa).cpp<br>
+Answer :Maximum product subarray :180<br>
