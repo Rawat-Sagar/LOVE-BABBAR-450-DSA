@@ -115,6 +115,9 @@ Code 21(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/subarr
 Answer :Yes<br>
 Code 21(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/subarray_sum_zero(optimal).cpp<br>
 Answer :Yes<br>
+Code 22:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/factorial_large_number.cpp<br>
+Answer :Factorial of given number is : <br>
+93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000<br>
 Code 23(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/max_product_subarray(bfa).cpp<br>
 Answer :Maximum product subarray :180<br>
 Code 23(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/max_product_subarray(optimal).cpp<br>
