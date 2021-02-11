@@ -117,3 +117,5 @@ Code 21(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/su
 Answer :Yes<br>
 Code 23(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/max_product_subarray(bfa).cpp<br>
 Answer :Maximum product subarray :180<br>
+Code 23(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/max_product_subarray(optimal).cpp<br>
+Answer :Maximum produxt subarray :180<br>
