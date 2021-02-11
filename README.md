@@ -122,3 +122,5 @@ Code 23(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/max_pr
 Answer :Maximum product subarray :180<br>
 Code 23(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/max_product_subarray(optimal).cpp<br>
 Answer :Maximum produxt subarray :180<br>
+Code 24(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/longest_consecutive_subsequence(bfa).cpp<br>
+Answer :Length of the Longest contiguous subsequence is 3<br>
