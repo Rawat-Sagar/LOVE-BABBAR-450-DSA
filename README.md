@@ -124,3 +124,5 @@ Code 23(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/ma
 Answer :Maximum produxt subarray :180<br>
 Code 24(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/longest_consecutive_subsequence(bfa).cpp<br>
 Answer :Length of the Longest contiguous subsequence is 3<br>
+Code 24(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/longest_consecutive_subsequence(optimal).cpp<br>
+Answer :The longest consecutive subarray is : 5<br>
