@@ -134,4 +134,5 @@ Answer :Maximium profit by buying and selling a share atmost twice :<br>
 6<br>
 Buy and Sell Stock at most 2 times (optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks_atmost2(o(n)).cpp<br>
 Answer :Maximum Profit = 100<br>
-Find whether an array is a subset of another array :
+Find whether an array is a subset of another array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/array_subset_another_array.cpp<br>
+Answer :Yes , array subset of another array : 4<br>
