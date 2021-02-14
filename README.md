@@ -126,7 +126,9 @@ Code 24(bfa):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/longes
 Answer :Length of the Longest contiguous subsequence is 3<br>
 Code 24(optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/longest_consecutive_subsequence(optimal).cpp<br>
 Answer :The longest consecutive subarray is : 5<br>
-Given an array of size n and a number k, find all elements that appear more than n/k times :
+Given an array of size n and a number k, find all elements that appear more than n/k times :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/elements_appear_n%5Ck_times.cpp<br>
+Answer :1<br>
+2<br>
 Buy and Sell Stock at most 2 times (dp):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks_atmost2(dp).cpp<br>
 Answer :Maximium profit by buying and selling a share atmost twice :<br>
 6<br>
