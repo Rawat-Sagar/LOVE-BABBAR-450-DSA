@@ -129,3 +129,5 @@ Answer :The longest consecutive subarray is : 5<br>
 Buy and Sell Stock at most 2 times (dp):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks_atmost2(dp).cpp<br>
 Answer :Maximium profit by buying and selling a share atmost twice :<br>
 6<br>
+Buy and Sell Stock at most 2 times (optimal):https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/buy_sell_stocks_atmost2(o(n)).cpp<br>
+Answer :Maximum Profit = 100<br>
