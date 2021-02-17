@@ -138,3 +138,5 @@ Find whether an array is a subset of another array :https://github.com/Rawat-Sag
 Answer :Yes , array subset of another array : 4<br>
 Find whether an array is a subest of another array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/array_subset_another_array(optimal).cpp<br>
 Answer :Yes array is subsest of another array<br>
+Triplet Sum Array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/triplet_array_sum(bfa).cpp<br>
+Answer :1<br>
