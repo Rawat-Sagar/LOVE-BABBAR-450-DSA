@@ -141,3 +141,5 @@ Answer :Yes array is subsest of another array<br>
 Triplet Sum Array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/triplet_array_sum(bfa).cpp<br>
 Answer :Triplet is :1 3 6<br>
 1<br>
+Triplet Sum Array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/triplet_array_sum(optimal).cpp<br>
+Answer :1<br>
