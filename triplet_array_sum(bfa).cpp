@@ -17,6 +17,7 @@ int main()
             {
                 if(arr[i]+arr[j]+arr[k] == X)
                 {
+                    cout<<"Triplet is :" <<arr[i]<<" "<<arr[j]<<" "<<arr[k]<<endl;
                     cout<<1<<endl;
                 }
             }
