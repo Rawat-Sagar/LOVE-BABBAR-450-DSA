@@ -136,3 +136,5 @@ Buy and Sell Stock at most 2 times (optimal):https://github.com/Rawat-Sagar/LOVE
 Answer :Maximum Profit = 100<br>
 Find whether an array is a subset of another array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/array_subset_another_array.cpp<br>
 Answer :Yes , array subset of another array : 4<br>
+Find whether an array is a subest of another array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/array_subset_another_array(optimal).cpp<br>
+Answer :Yes array is subsest of another array<br>
