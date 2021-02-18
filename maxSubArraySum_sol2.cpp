@@ -4,7 +4,7 @@
 #include<climits> 
 using namespace std; 
 
-int maxSubArraySum(int a[], int size) 
+void maxSubArraySum(int a[], int size) 
 { 
 	int max_so_far = 0, max_ending_here = 0, 
 	start =0, end = 0, s=0; 
@@ -39,6 +39,6 @@ int main()
 { 
 	int a[] = {-2, -3, 4, -1, -2, 1, 5, -3}; 
 	int n = sizeof(a)/sizeof(a[0]); 
-	int max_sum = maxSubArraySum(a, n); 
+	maxSubArraySum(a, n); 
 	return 0; 
 } 
