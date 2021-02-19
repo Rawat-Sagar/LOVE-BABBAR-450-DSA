@@ -143,3 +143,6 @@ Answer :Triplet is :1 3 6<br>
 1<br>
 Triplet Sum Array :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/triplet_array_sum(optimal).cpp<br>
 Answer :1<br>
+Trapping Rain Water Problem :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/trapping_rain_water(bfa1).cpp<br>
+Answer :Trapping Rain Water sum is :<br>
+6<br>
