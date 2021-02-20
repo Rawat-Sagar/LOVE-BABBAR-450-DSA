@@ -154,3 +154,6 @@ Smallest Subarray with sum greater than given value :https://github.com/Rawat-Sa
 Answer :3<br>
 Smallest Subarray with sum greater than given value :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/smallest_subarray_with_sum_greater_than_value(optimal).cpp<br>
 Answer :3<br>
+Three Way Partitoning :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/three_way_partition(optimal).cpp<br>
+Answer :Modified array <br>
+1 2 3 4 5 <br>
