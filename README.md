@@ -150,3 +150,5 @@ Trapping Rain Water Problem :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/
 Answer :Maximum water that can be accumulated is : 6<br>
 Trapping Rain Water Problem :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/trapping_rain_water(optimal).cpp<br>
 Answer :Maximum water that can be accumulated is 5<br>
+Smallest Subarray with sum greater than given value :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/smallest_subarray_with_sum_greater_than_value(bfa).cpp<br>
+Answer :3<br>
