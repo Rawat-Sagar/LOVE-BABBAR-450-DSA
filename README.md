@@ -157,3 +157,5 @@ Answer :3<br>
 Three Way Partitoning :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/three_way_partition(optimal).cpp<br>
 Answer :Modified array <br>
 1 2 3 4 5 <br>
+Minimum Swaps required to bring all the element less than K together :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/minimum_swaps_bring_together(optimal).cpp<br>
+Answer :1<br>
