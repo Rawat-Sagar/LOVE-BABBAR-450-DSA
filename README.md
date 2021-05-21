@@ -159,8 +159,12 @@ Answer :Modified array <br>
 1 2 3 4 5 <br>
 Minimum Swaps required to bring all the element less than K together :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/minimum_swaps_bring_together(optimal).cpp<br>
 Answer :1<br>
+<h1>STRINGS</h1><br>
  Reverse String : https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/reverse_string_leetcode_love450dsa.cpp<br>
  Answer : Size :5<br>
 h e l l o <br>
 Size :5<br>
 o l l e h <br>
+IS Palindrome :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/isPalindrome_string_gfg_love450dsa.cpp<br>
+abbfcbba is Not Palindrome<br>
+abba is Palindrome<br>
