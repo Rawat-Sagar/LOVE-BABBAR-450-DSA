@@ -173,3 +173,7 @@ e, count = 4<br>
 g, count = 2<br>
 k, count = 2<br>
 s, count = 2<br>
+String are rotation of Another String or not:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/strings_are_rotation_of_other_or_not_gfg_love450dsa.cpp<br>
+1st String :ABCD<br>
+2nd String :ACDA<br>
+Strings are not rotations of each other<br>
