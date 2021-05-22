@@ -177,3 +177,13 @@ String are rotation of Another String or not:https://github.com/Rawat-Sagar/LOVE
 1st String :ABCD<br>
 2nd String :ACDA<br>
 Strings are not rotations of each other<br>
+Check Valid Shuffle of Two Strings :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Check_valide_shuffle_two_strings_love450dsa.cpp<br>
+1st String :<br>
+xy<br>
+2nd String :<br>
+12<br>
+Result String :<br>
+x1y2<br>
+Valid Shuffle<br>
+
+
