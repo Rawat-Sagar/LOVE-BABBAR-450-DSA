@@ -168,3 +168,8 @@ o l l e h <br>
 IS Palindrome :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/isPalindrome_string_gfg_love450dsa.cpp<br>
 abbfcbba is Not Palindrome<br>
 abba is Palindrome<br>
+Duplicate in String :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/duplicate_string_gfg_love450dsa.cpp<br>
+e, count = 4<br>
+g, count = 2<br>
+k, count = 2<br>
+s, count = 2<br>
