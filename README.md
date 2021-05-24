@@ -185,5 +185,11 @@ xy<br>
 Result String :<br>
 x1y2<br>
 Valid Shuffle<br>
+Longest Palindromic String :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Longest%20_Palindrome%20_String_Love450dsa.cpp<br>
+Longest palindrome substring is: <br>
+aabaa<br>
+Length :5<br>
+
+
 
 
