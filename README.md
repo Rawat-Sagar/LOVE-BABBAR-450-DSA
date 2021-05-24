@@ -189,6 +189,12 @@ Longest Palindromic String :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/b
 Longest palindrome substring is: <br>
 aabaa<br>
 Length :5<br>
+Longest Palindromic String (optimal) :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Longest_Palindromic_Substring_optimal_love450dsa.cpp<br>
+Longest palindrome substring is: geeksskeeg<br>
+Length :10<br>
+
+
+
 
 
 
