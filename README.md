@@ -185,7 +185,7 @@ xy<br>
 Result String :<br>
 x1y2<br>
 Valid Shuffle<br>
-Count and Say:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/tree/main<br>
+Count and Say:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/count_and_say_love450dsa.cpp<br>
 21<br>
 Longest Palindromic String :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/Longest%20_Palindrome%20_String_Love450dsa.cpp<br>
 Longest palindrome substring is: <br>
