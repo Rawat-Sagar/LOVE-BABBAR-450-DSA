@@ -211,6 +211,12 @@ CBA<br>
 CAB<br>
 Spilt Binary string into substrings with equal number of 0 1 :https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/binary_substrings_equal_01_love450dsa.cpp<br>
 4<br>
+Edit Distance BRUTE FORCE METHOD:https://github.com/Rawat-Sagar/LOVE-BABBAR-450-DSA/blob/main/edit_distance_lovedsa450.cpp<br>
+Enter the String 1:<br>
+ab<br>
+Enter the String 2:<br>
+dc<br>
+2<br>
 
 
 
